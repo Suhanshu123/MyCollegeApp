@@ -1,0 +1,115 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    android:orientation="vertical"
+    tools:context="com.example.android.codeathon.fragments.BlankFragment1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="5dp"
+                android:textStyle="bold"
+                android:text="Fire Station/Safety"
+                android:textSize="30sp" />
+
+            <TextView
+                android:textSize="20sp"
+                android:text="1. Fire Station Haridwar"
+                android:id="@+id/about_fragment_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 2430333"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:textSize="20sp"
+                android:text="2. Roorkee Fire Station"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 0663 2321626"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:textSize="20sp"
+                android:text="3. D.M. and Collector"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 2400222"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:textSize="20sp"
+                android:text="4. Emergency Office, Haridwar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 2410011"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:textSize="20sp"
+                android:text="5. SP Haidwar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 2401308"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+
+
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+</LinearLayout>

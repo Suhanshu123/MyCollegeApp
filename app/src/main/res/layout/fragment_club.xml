@@ -1,0 +1,194 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    android:orientation="vertical"
+    tools:context="com.example.android.codeathon.fragments.BlankFragment1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="5dp"
+                android:textStyle="bold"
+                android:text="Clubs"
+                android:textSize="30sp" />
+
+            <TextView
+                android:textSize="20sp"
+                android:text="1. Robotics"
+                android:id="@+id/about_fragment_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 9454682921"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:textSize="20sp"
+                android:text="2. Dramatics"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 9454682921"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:textSize="20sp"
+                android:text="3. Art and Photography"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 9454682921"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:textSize="20sp"
+                android:text="4. SAE"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 9454682921"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:textSize="20sp"
+                android:text="5. Literary"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 9454682921"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+
+            <TextView
+                android:textSize="20sp"
+                android:text="6. Sanskar Kendra"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 9454682921"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:textSize="20sp"
+                android:text="7. Quizzine"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 9454682921"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:textSize="20sp"
+                android:text="8. Souls"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 9454682921"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:textSize="20sp"
+                android:text="9. Vibranz"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 9454682921"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+            <TextView
+                android:textSize="20sp"
+                android:text="10. Engima"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:textSize="17sp"
+                android:layout_marginLeft="20dp"
+                android:text="Phone: 9454682921"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                android:paddingLeft="15dp"
+                />
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+</LinearLayout>

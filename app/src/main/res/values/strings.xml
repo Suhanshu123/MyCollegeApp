@@ -1,0 +1,354 @@
+<resources>
+    <string name="app_name">GKV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vision_string">
+       To emerge as an internationally acclaimed Technical University ot impart futuristic technical
+        education and creation of vibrant research enterprise to create quality engineers and researchers,
+        truly world class leaders and unleashes technological innovations to serve the global society and
+        improve the quality of life.
+    </string>
+
+    <string name="mission_string">
+        Gurukul Kangri Viswavidyalaya, Haridwar strives to create values and ethics in its products by inculcating depth
+        and intensity in its education standards and need based research through
+
+    </string>
+
+    <string name="vc_string">
+        Is a well known academician and administrator.A Double Post Graduate in Hindi and Sanskrit Gurukul Kangri University
+        and Punjab University respectively.He is a perfect blend of administration and academics, having a wide experience of
+        administration as Principal / Director and having many books / papers to his credit.He is a Ph.D from Punjab University.
+        Has more than 35 years of teaching experience.
+    </string>
+    <string name="history_string">Gurukula Kangri Vishwavidyalaya was founded on March 4, 1902 by Swami Shraddhanandaji with the sole aim to revive the ancient Indian Gurukula
+        System of education, on the bank of Ganges at a distance of about 6 km. from Hardwar and about 200 km. from Delhi. This institution was established with the objective of providing an indigenous alternative to
+        Lord Macaulay’s education policy by imparting education in the areas of vedic literature, Indian philosophy, Indian culture, modern sciences and research.It is a deemed to be university fully funded by UGC/Govt. of India.
+        Arya Samaj has been advocating women’s education since the day it was founded. As part of its policies for the up-liftment of women in the country, Kanya Gurukula Campus, Dehradun was established in 1922 by Acharya Ramdevji as a second campus of women’s education.
+        To give real shape to the dreams of Swami Shraddhanandaji, Kanya Gurukula Campus, Hardwar was established in 1993.     Gurukula has witnessed many distinguished guests in its journey till date. To name a few of them are Mr.C.F. Andrews, Former Prime Minister of Britain,
+        Mr. Remjy Mcdonald, Mahatma Gandhi, Pt. Madan Mohan Malviya, Dr. Rajendra Prasad, Dr Radha Krishnan, Sh.Jamnalal Bajaj,Dr. Munje, Sadhu Vaswani,Pt. Jawahar Lal Nehru, Smt. Indira Gandhi and Sh.Gyani Jail Singh, Sh.L.K.Advani and recently in 2011 Smt.Meira Kumar, Speaker Lok
+        Sabha visited the vishwavidyalaya.</string>
+
+    <string name="idea_club">
+       In a technical organization like GKV, Haridwar; IDEA AND INNOVATION CELL is the hub of ideas which is designed to help
+       new innovators emerge into great inventors. The official club fosters a progressive platform for the techno-nerds through proper
+       technical guidance and able financial support. With a practical approach for the theoritical knowledge, the club tends to collaborate with
+       industrial estates and develop projects to exhibit an Industrial Exposure as well as develop the management skills of the learners.
+       Apart from learning, the students are encourages to indulge in various National and International Competitions to learn and judge their
+       tech-knowledge. As a sequel, the Idea Club aims to infuse idea and technology to give way to new innovation.
+   </string>
+    <string name="edp">
+        Entrepreneurship is the process of starting a business or other organization. The entrepreneur develops a business model,
+        acquires the human and other required resources, and is fully responsible for its success or failure. The EDP (Entrepreneurship Cell)
+        is a non-profit organization run by students of GKV Haridwar.
+    </string>
+    <string name="music">
+        The function of this club is provide an opportunity to the students of the University to develop their musical talents and other
+        cultural activities.
+    </string>
+    <string name="robotics">
+        Robotics Club of GKV is one of the most active among all the technical colleges in India serving the nation in the fields
+        of Robotics and technology. The Club offers indispensilbe guidance, workshops and tutorials along with tools, equipments, components
+        and workspace among the students of the university international level competitions. It's more than that where a group of students
+        come together with new innovation and ideas that makes the available technology to play with it.
+
+    </string>
+
+    <string name="avc">
+        Previously The Audio Visual Club was providing entertainment to students and staff members, by way of screening Hindi/English
+        films once or twice a week. The club was organizing Annual Film Festival once a year. Now it is organizing Disha a National level documentary film making competition.
+
+    </string>
+
+    <string name="quiz">
+        This is the Official Quiz fo GKV, Haridwar. Quizzine organizes quizzes in the campus premises every Saturday. Each meeting covers
+        questions on wide varitety of topics like sports, food, India, cartoons, music, history, science fiction, films, love and marriage.
+         The Quiz Club is largely responsible for the resurgence of quizzing events in GKV. The wide exposure to trivia and the recycling
+        of outside quizzes also helps.
+    </string>
+
+    <string name="art">
+        This is the official Art and Photography club of GKV, Haridwar. The function of this club is provide an opportunity to the
+        students of the University to develop their Artistic talents. It Organizes competitions on different categories and photography
+        like pencil sketches , colour painting etc. It organizes art and photogarphy competition.
+    </string>
+    <string name="athletes">
+        It promotes athletic activity among the students. It conduct the sports and athletic tournaments of the University. It arranges
+        and supervise participation of the University teams in the various student-teacher friendly matches, iner Hall/inter class competetion
+        , inter University,inter state sports and athletic meets.
+    </string>
+
+    <string name="dance">
+    This is the Official Dance Club of GKV, Haridwar. The function of this club is provide an opportunity to the students of the
+    University to develop their Dance talents and other cultural activities. The members of this club are selected on the basis of
+    Audition. This Club perform dance in all events of college and also perticipate in different dance events outside college.
+</string>
+
+    <string name="literary">
+        The function of Literary society is to promote literacy activity amongst the students and to prepare and arrange for publication
+        of the University magazine. The Vission is the Official e-Newsletter of the Institute, GKV, Haridwar.
+        It is maintained by the Literary Society of GKV. This is a platform for the students to keep track of the Events happening in
+        the campus and it also publishes Interview of Student, Faculty, Alumini at regular interval. The Literary Society of GKV also present
+        range of events in JNANGNI the cultural fest of Gkv, Haridwar.
+    </string>
+
+    <string name="sanskar">
+        SANSKAR KENDRA is the self motivated group with a desire to serve the society. It is initially started by a Small
+        group of students of Gkv, Haridwar with a motive to educate the slum children. It has two center named Kirba and Panitanki pads. 150
+        students are getting benefited. Apart from Education it focus on parent awareness, sanskar program to develop morality. It organizes
+        plantation, program, Health camp, blood donation camp once in a year. It promoting computer literacy program in collaboration with
+        UTPRERIT NGO and woman empowerment in collaboration with MCL Mahila Jagruti M
+    </string>
+
+    <string name="library_fragment1">
+        THE LIBRARY REMAINS OPEN FROM 10 AM TO 8 PM ON ALL WORKING DAYS OF THE WEEK EXCEPT IN THE HOT SUMMER MONTHS ( APRIL AND MAY )
+        DURING WHICH THERE IS A BREAK FROM 1 PM  TO 2.30 PM.
+    </string>
+
+    <string name="library_fragment2">
+        The University Library is the largest technical library of the State. A new separate library building has come up with the
+        assistance from U.G.C and State Govt. and the library has started functioning in its newly constructed building since July, 1997
+    </string>
+
+    <string name="rule1">
+        1. The members will get, at a time of membership, a borrowers card. On each occasion, a book is book is borrowed or returned
+        , the borroweres's card is to be presented at the issue counter of necessary entry.
+    </string>
+
+    <string name="rule2">
+        2. Borrowers card will be issued to the students on application till 2 months from the date of admission and after that Rs. 50
+        will be levied for late application.
+    </string>
+
+    <string name="rule3">
+        3. Books on loan with members can be recalled by the library at any time.
+    </string>
+
+    <string name="rule4">
+       4. Manuscript, reference books, damaged books, rare books, standard books are not issued ordinarily on loan.
+    </string>
+
+    <string name="rule5">
+        5. The loss of this pass book should be reported immediately.
+    </string>
+    <string name="rule6">
+        6. For misuse of this pass book Library shall not be responsible in any manner.
+    </string>
+
+    <string name="rule7">
+        7. Duplicate pass book will be issued After one week against a payment of Rs. 100.
+    </string>
+
+    <string name="rule8">
+        8. Library documents will be issued only against this pass book.
+    </string>
+
+    <string name="gym_fragments">
+        IT REMAINS OPEN FROM 5:30 AM TO 9:00 AM IN MORNING SHIFT AND 4:00 PM TO 7:00 PM IN EVENING IN MON TO SAT.
+    </string>
+
+    <string name="gym_fragments2">
+        The University is facilitated with a state of art of gymnasium which can be accessed by Institute staff and campus residents
+        or Day Scholar.
+    </string>
+
+    <string name="internet_fragments">
+       IF REAMINS OPEN FROM 8:00 AM TO 8:00 PM FROM MON TO SAT. THEIR IS A BREAK FROM 1:00 PM TO 2:30 PM ON SUNDAY.
+    </string>
+
+    <string name="internet_fragments2">
+        The University is having a Central Internet Facility Accessible to all Student and Teachers. The University is availing 1-GBPS
+         internet connectivity. With this connectivity the University has become a member of National Knowledge Network( NKN ), a project
+        initiated by Govt. of India to connect all the Universities and Institutions of India.
+    </string>
+
+    <string name="computer1">
+        THE FACULTIES REMAIN OPEN FROM 8:00 AM TO 8:00 PM ON ALL WORKING DAYS OF THE UNIVERSITY.
+    </string>
+    <string name="computer2">
+        The Central Computer Facility of the University was established in the University in the year 2000; with financial assistance
+        from the MHRD, Govt. of India as a Zero level facility. During the year 2002-2003, a HCL-HP Meteors. The facilities have been upgraded and
+        expanded from time to time. In the year 2000, an advanced Pentium based SCO-Unix server with 15 terminals was added and a good number
+        of application softwares have been installed for the of the University.
+    </string>
+    <string name="computer3">
+        Looking at the present days needs, softwares like JAVA, ORACLE, Visual Studio etc. have been kept open for the benefit of the students.
+        Facilities also exist for using various languages like Basic, fortran - 77, pascal, C and C++ and Foxpro. in various operating enviornment
+        like Windows, Dos, Unix and Linux.
+    </string>
+    <string name="computer4">
+        Internet with e-mail and browser facility have been provided ot the students with assistance from All India Council for Technical
+        Education, New Delhi. Presently, this facility cater the need of students as well as  faculty through a 64 kbps broadband GKV connectivity
+        and inhouse linux-based networking. It helps to students for various on-line tests for jobs, searching the research
+        paper for their project works/thesis etc. Proposals have already been made for entire Unviersity and campus networking through fibre-optics cables.
+        The facility remains open from 8.00 AM to 8.00 PM on all working days in the University.
+
+    </string>
+
+    <string name="fest">
+        Gurukul Kangri Vishwavidyalya is not just a mere institution but its an academy where the cerebral and cultural erudition
+        receptacles are interminably augmenting since 1902. On behalf of Faculty of Engineering and Technology, Gurukul Kangri
+        Vishwavidyalya , we introduce you the Jnanagni 18, the National level Techno-Cultural fest, which began its journey from
+        2006 with huge success.
+
+    </string>
+
+    <string name="fest2">
+        Jnanagni is an effort with the message to have "Englightenment Everywhere" - the Englightenment of knowledge, Creativity
+        and Success. Jnanagni aims to celebrate the festival of Experimentation and Learning. The Plathora of Events that Jnanangni
+        promises is designed in a way to Challenge all the Dimension of a Students Cerebrum and we try to keep assure that the Winner
+        is 'Knowledge' in the end. It will be a pleasure to have you become a part of Jnanagni by way of Sponsorship,Valuable Suggestions,
+        Academic Inputs. Sponsoring Jnanangni means ubiquitions reach, unprecedented mass viability and a growth to your band quity.
+
+
+
+    </string>
+
+    <string name="codeathon">
+        CODEATHON provides you a platform to bring out the developer in you. A developer who can solve the real life problems,
+        a developer who can code the new ideas.
+    </string>
+
+    <string name="weber">
+        You will have to design a website using markup and programming language.There will be no internet connection throughout
+        the event.A website can be static or dynamic as per your ease.
+    </string>
+
+    <string name="speedomer">
+It is a Type Racing event consisting 3 stages in which participants will compete in groups on an online platform.,
+        thereafter participants for next round will be selected
+    </string>
+
+    <string name="inclino">
+Ever wondered the concept of the Leaning tower of Pisa. Its time to construct your own inclined structure using materials
+        defined below in rules. Then it will be tested for its strength and stability. Make your structure as inclined as
+        possible but keep in mind about its strength. At the same time they have to take care of the accuracy too.
+    </string>
+
+    <string name="hydroriser">
+Scientific truth is simple but fancy. Even the most sophisticated and complex mechanisms of modern times draw its power from a
+        principle as fundamental as the fact that “water is incompressible”. Keeping this motto of basic simplicity at the
+        core of this competition, we present to you Hydro riser, an opportunity to ascend your way up using hydraulic mechanism.
+        Energize your machine with syringes filled with water and discover the joy of playing with the basics of our apparently
+        complicated science.
+    </string>
+
+    <string name="placement">
+Corporate Affairs and Outreach Cell (CAOC) has an important role to play in student’s career path. This cell continuously
+        strives to help students in pursuing their career goals by acquiring employment skills and ultimately to attain
+        desired employment. This is accomplished through building a strong partnership amongst industries, students, alumni
+        and faculty.
+    </string>
+    <string name="placement2">
+        The companies listed in “Fortune-500 Companies”, continues to hunt talent from GKV, despite its popularity as
+        Vedic University. Withholding its Gurukula approach of teaching, Gurukula Kangri Vishwavidyalaya is running many
+        professional courses like MCA, MBA, M.Sc., B.Tech., B.Pharma., BBA etc. with different specialization in addition to
+        its conventional courses. With the sincere efforts of Corporate Affairs and Outreach Cell headed by Prof. (Dr.) Pankaj
+        Madan as Professor Incharge and Mr. Durgesh Gaurav as Training and Placement Officer in strong coordination and support
+        of the University Administration specially Dr.Surendra Kumar – Vice Chancellor and Prof. V. K. Sharma – Registrar,cell
+        continues its support to the students by providing a strong platform to start with their career and arranging worthwhile
+        compensation packages.
+    </string>
+    <string name="alumni">
+    Established in 2008 and as Registered body in 2015, GKV Alumni Association looking forward while aiming to maintain
+    a life-long connection between the Institute and its alumni’s, who are number more than 50,000. In collaboration with an
+    extremely dedicated team of board of member, the Alumni Association works to connect alumni, support students and build an
+    unforgettable Institute experience through a diversity of events, programming and services.
+</string>
+
+    <string name="alumni2">
+        Reaching out to GKV Alumni: we
+    are proud to have as its alumni working in the field from social scientists, scientist’s civil servants, literary critics,
+    media experts, foreign language experts, journalists, political leaders, social activists, technologists, managers and
+    entrepreneurs over the last 70 years and more. This number will continue to grow. Within the banner of GKV, the GKV Alumni
+    Association is looking forward to grow more and develop a better linkage between Vishwavidyalaya and Alumni and Vice Versa.
+    </string>
+
+    <string name="computer_academic">
+    The Dapartment of Computer Science and Engineering, Faculty of Engineering and Technology, Gkv, was established in 2001 and at present offers
+    the four years undergraduate programmes, two years Master Degree Programmes and Doctoral Degree Pregramme. It has produced high quality
+    technocrats for the last few decades to cater to the needs of hardware and software industry, R and D organizations, and academic Institutions.
+</string>
+    <string name="computer_academic2">
+         The department has been accreditated for 3 years since 2006 by AICTE with the extension of U.G.C conferred academic autonomy.
+     The syllabi of the Department are updated wiht many advanced courses to enable students to keep themselves at par with cutting
+    edge-technology.
+    </string>
+
+
+    <string name="ece_academic">
+        Electronics, particularly computer usage coupled with recent space age, endeavors has by this time already crept into every sphere of
+        human activities. Every industry, institution and organization feels the need of an Electronic Engineer and  a Computer specilist.
+        Advanced countries in the world have gone to such depths of Electronic today that an Electronics Engineer is indispensable in every front.
+        Opportunity in this highly sophisticated and advanced branch of engineering is just immense. Keeping in view the need of the day, the Electronics
+        and Communication Engineering Department of Gkv, Haridwar offers quite an attractive up-to-date 4 years  Degree course in Communication
+        Engineering .
+
+    </string>
+    <string name="ece_academic2">
+       The students graduated from this department are now well-placed in important National and International organizations. The department is
+        proposing to start a new course in VLSI Signal Processing from next academic session. The department organized National Conference, Symposia
+        , Seminars, Exhibitions and Short term courses on advancecd topics. The students of this departments have own distinction in all India Technical
+        Students Meet for their tecnhical paper presentation.
+    </string>
+    <string name="ee_academic">
+       The Department of Electrical Engineering of Gkv is one among the first branches to be instituted. While retaining its strength in
+        traditional areas of engineering, the department grew with time, reflecting the needs of a changing society and established new are areas
+        teaching and research in electrical engineering. The department is AICTE accreditated.
+    </string>
+
+    <string name="ee_academic2">
+      Students sub-commitees have been set up who work along with the Lab. In-charge, and staff attached to the laboratory towards up-keep
+        and effective utilizaiton of the assigned laboratory. Through devolution of powers, the administration in the department has been
+        effectively made transparent.
+    </string>
+    <string name="me_academic">
+       Mehanical Engineering is a branch of engineering and tehcnology, which deals with the favorable applicaition of the laws of nature in micro/macro
+         level. In the micro level the effect of quanta of energy bundle prompts the development of new areas of study, such as the nuclear
+        fission/fusion to the generation of electricity and power from both conventional and non-conventional sources of nature breeds the
+        Power Plants.
+    </string>
+
+    <string name="me_academic2">
+      The curriculum of this branch is designed and furnished by seeking the most recent trends to keep pace with international standard.
+        The opportunity of up gradation and revision of curriculum by peer
+        groups enables the engieering graduates of our branch to sustain in any situation in fast changing scenarios.
+    </string>
+    <string name="ac_academic">
+      The Department of chemistry started with the establishment of Gkv, Haidwar, Presently,it is one of the oldest chemistry Departments in
+        the state. The Department infuses the basic fundamentals of Chemistry to the students at B.Tech. level. From the session 2010-11
+        , the Department started Msc courses in the specialization of Industrial Chemistry.
+    </string>
+
+    <string name="ac_academic2">
+     The Department is going to start M.Phil courses from the session 2012-13 as per new UGC regulation - 2009, which is in the pipeline
+         and subject to the recommendation of Academic Council with due approval from competent authority.
+    </string>
+
+    <string name="am_academic">
+      The Department since inception in 1998, has always shared the vision of the University in striving for excellence in research and teaching
+        activities and has succeeded in this endeavor to a large extent. Over the years, the department has evoloved as one of the premier department
+        in the Uttarakhand State providing excellent teaching and research in Mathemaitics.
+    </string>
+
+    <string name="am_academic2">
+     Apart from the Ph. D. programmes in Mathematics, the department also offers masters programmes.In the coming decades, apart from the existing
+        areas, the department intends to develop areas related to mathematical aspects of computing science in all its manifestation.
+    </string>
+
+    <string name="ap_academic">
+      The Department of Physics was established in 1994. Since the inception of the University, the department is contributing to the
+        academic and administrative developement of this institute. At present the department is catering to teaching of Physics at UG level.
+        The department is actively engaged in frontier areas of reseach. So for six persons have completed their PH.D work.
+    </string>
+
+    <string name="ap_academic2">
+     Currently, faculty members have started research activities in a variety of cutting edge technology and multidisciplinary thrust areas
+        of Physics, particularly in the broad areas of condensed matter physics, nuclear physics, Plasma Physics. The department aims to offer
+        various elective courses for UG in specific topics on emerging areas of science and technology in near future.
+    </string>
+
+
+</resources>
+
